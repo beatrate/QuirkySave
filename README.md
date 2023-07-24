@@ -1,5 +1,5 @@
 # QuirkySave
-A wip modular saving system from one of my projects.
+A modular saving system from one of my projects.
 
 Requires Json.NET installed.
 Can use the **com.unity.nuget.newtonsoft-json** package or a **Json.NET asset** from the Asset Store.
